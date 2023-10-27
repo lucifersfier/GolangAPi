@@ -1,0 +1,20 @@
+In the web world there's really two different components that exist we have the client and we have the 
+server so anytime that you go on a website you go on a specific url what ends up happening is the client
+is going to make a request to the server to get some data the server is then going to process that request and 
+then return the data to the client. 
+once that's done the client is going to render that data and there you go you can see all of your data.
+
+
+################## SETUP OF GOLANG #############################
+
+1- main.go file create in VS CODE
+2-install go programming language 
+3-IN terminal type "go mod init example/directoryname" which will create another file named go.mod
+4-IN terminal another command is "go get github.com/gin-gonic/gin which will download some packages and create go.sum
+  file.
+
+********************* CREATE API **********************************
+
+1- data look will determined by "struct"
+2- define the properties and their id in STRUCT 
+3- 

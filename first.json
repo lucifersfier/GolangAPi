@@ -1,0 +1,14 @@
+{
+    "name": "Nittyansh Srivastava",
+    "Score": 20,
+    "isAdmin": true,
+    "license": null,
+    "shopItem": ["food","oil","clothes"],
+    "myobj": {
+        "name": "Shivansh",
+        "Score": 23,
+        "shopItem2": ["food","oily","clothes"]
+
+    }
+}
+
